@@ -1,0 +1,13 @@
+numpy 
+pandas
+Seaborn 
+matplotlib
+plotly
+Scikit-learn
+Streamlit
+mat73
+scipy
+h5py
+pyodbc
+ipykernel 
+tensorflow
